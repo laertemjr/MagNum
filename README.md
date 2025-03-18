@@ -9,8 +9,8 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 
 
 ### 🔎 Testando o programa / *Testing the program*
-* Para testar o programa (portátil), basta fazer o download do arquivo executável, acessível a partir da pasta [Win32/Debug](https://github.com/laertemjr/PicSave/tree/main/Win32/Debug) deste repositório.
-* *To test the program (portable), simply download the executable file, accessible from the [Win32/Debug](https://github.com/laertemjr/PicSave/tree/main/Win32/Debug) folder of this repository.*
+* Para testar o programa (portátil), basta fazer o download do arquivo executável, acessível a partir da pasta [Win32/Debug](https://github.com/laertemjr/MagNum/tree/main/Win32/Debug) deste repositório.
+* *To test the program (portable), simply download the executable file, accessible from the [Win32/Debug](https://github.com/laertemjr/MagNum/tree/main/Win32/Debug) folder of this repository.*
 
 
 ### 👉 Características / *Features*
