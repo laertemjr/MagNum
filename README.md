@@ -1,4 +1,4 @@
-# PicSave
+# MagNum
 
 
 Recupera imagens de bancos de dados MS-Access | *Recovers images from MS-Access databases*
