@@ -1,7 +1,7 @@
 # MagNum
 
 
-Recupera imagens de bancos de dados MS-Access | *Recovers images from MS-Access databases*
+Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Identifies the file type using its Magic Number (File Signature)*
 <br/>
 <br/>
 ### 🖥️ Pré-requisitos / *System requirements*
