@@ -14,7 +14,7 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 
 
 ### 👉 Características / *Features*
-* Reconhece 12 tipos de arquivos de uso comum no Windows / *Recognizes 12 commonly used file types on Windows*
+* Reconhece 12 tipos de arquivos de uso comum no Windows: bmp, exe, gif, jpg, pcx, pdf, png, rar, tif, zip / *Recognizes 12 commonly used file types on Windows: bmp, exe, gif, jpg, pcx, pdf, png, rar, tif, zip*
 * Funciona mesmo sem a extensão do arquivo ou com a extensão errada / *It works even without the file extension or with the wrong extension*
 * A lista de Magic Numbers (MagNumList.txt) é expansível / *The Magic Numbers list (MagNumList.txt) is expandable*
 
