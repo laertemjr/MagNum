@@ -29,12 +29,11 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 * [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi) 12.1 Athens
 
 
-### 📌 Versão 0.1 - 14/03/2025 / *Version 0.1 - 03/14/2025*
+### 📌 Versão 0.1.12.0 - 18/03/2025 / *Version 0.1.12.0 - 03/18/2025*
 * Versão original / Original version
 
 
 ### 📄 Licença / *License*
-* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/PicSave/blob/main/LICENSE.md) para detalhes.
-* *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/PicSave/blob/main/LICENSE.md) file for details.*
- 
-*
+* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/MagNum/blob/main/LICENSE.md) para detalhes.
+* *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/PicSave/MagNum/main/LICENSE.md) file for details.*
+
