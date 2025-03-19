@@ -35,5 +35,5 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 
 ### 📄 Licença / *License*
 * Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/MagNum/blob/main/LICENSE.md) para detalhes.
-* *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/PicSave/MagNum/main/LICENSE.md) file for details.*
+* *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/MagNum/blob/main/LICENSE.md) file for details.*
 
