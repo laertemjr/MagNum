@@ -14,9 +14,9 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 
 
 ### 👉 Características / *Features*
-* Reconhece 12 tipos de arquivos de uso comum no Windows / Recognizes 12 commonly used file types on Windows
-* Funciona mesmo sem a extensão do arquivo ou com a extensão errada / It works even without the file extension or with the wrong extension
-* A lista de Magic Numbers (MagNumList.txt) é expansível / The Magic Numbers list (MagNumList.txt) is expandable
+* Reconhece 12 tipos de arquivos de uso comum no Windows / *Recognizes 12 commonly used file types on Windows*
+* Funciona mesmo sem a extensão do arquivo ou com a extensão errada / *It works even without the file extension or with the wrong extension*
+* A lista de Magic Numbers (MagNumList.txt) é expansível / *The Magic Numbers list (MagNumList.txt) is expandable*
 
 
 ### 👍 Agradecimentos / *Acknowledgements*
@@ -37,3 +37,4 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 * Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/PicSave/blob/main/LICENSE.md) para detalhes.
 * *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/PicSave/blob/main/LICENSE.md) file for details.*
  
+*
