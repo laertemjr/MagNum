@@ -8,11 +8,6 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 *  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 
-### 🔎 Testando o programa / *Testing the program*
-* Para testar o programa (portátil), basta fazer o download do arquivo executável, juntamente com o arquivo MagNumList.txt, ambos acessíveis a partir da pasta [Win32/Debug](https://github.com/laertemjr/MagNum/tree/main/Win32/Debug) deste repositório.
-* *To test the program (portable), simply download the executable file, along with the MagNumList.txt file, both accessible from the [Win32/Debug](https://github.com/laertemjr/MagNum/tree/main/Win32/Debug) folder of this repository.*
-
-
 ### 👉 Características / *Features*
 * Reconhece 12 tipos de arquivos de uso comum no Windows: bmp, exe, gif, jpg, pcx, pdf, png, rar, tif, zip, MS-Office 97-2003, e MS-Office posteriores / *Recognizes 12 commonly used file types on Windows: bmp, exe, gif, jpg, pcx, pdf, png, rar, tif, zip, MS-Office 97-2003, and later MS-Office*
 * Informação para o usuário: funciona mesmo sem a extensão do arquivo ou com a extensão errada / *Information for the user: it works even without the file extension or with the wrong extension*
@@ -27,10 +22,6 @@ Identifica o tipo do arquivo mediante o seu Magic Number (File Signature) | *Ide
 
 ### 🛠️ Construído com / *Built with*
 * [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi) 12.1 Athens
-
-
-### 📌 Versão 0.1.12.0 - 18/03/2025 / *Version 0.1.12.0 - 03/18/2025*
-* Versão original / Original version
 
 
 ### 📄 Licença / *License*
