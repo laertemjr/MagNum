@@ -59,11 +59,9 @@ object frmMagNum: TfrmMagNum
     Panels = <
       item
         Alignment = taCenter
-        Text = 'Developed in Delphi 12.1 - version 0.1 (2025)'
+        Text = 'Developed in Delphi 12.1 - version 0.1.12.0 (2025)'
         Width = 50
       end>
-    ExplicitTop = 422
-    ExplicitWidth = 624
   end
   object btnBrowse: TButton
     Left = 8
