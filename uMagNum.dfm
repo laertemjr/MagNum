@@ -11,6 +11,7 @@ object frmMagNum: TfrmMagNum
   Font.Name = 'Segoe UI'
   Font.Style = []
   OnActivate = FormActivate
+  OnDestroy = FormDestroy
   TextHeight = 15
   object Label1: TLabel
     Left = 8
@@ -59,7 +60,7 @@ object frmMagNum: TfrmMagNum
     Panels = <
       item
         Alignment = taCenter
-        Text = 'Developed in Delphi 12.1 - version 0.1.12.0 (2025)'
+        Text = 'Developed in Delphi 12.1 - version '
         Width = 50
       end>
   end
