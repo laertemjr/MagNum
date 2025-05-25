@@ -2,7 +2,8 @@ program MagNum;
 
 uses
   Vcl.Forms,
-  uMagNum in 'uMagNum.pas' {frmMagNum};
+  uMagNum in 'uMagNum.pas' {frmMagNum},
+  uGlobal in 'uGlobal.pas';
 
 {$R *.res}
 
