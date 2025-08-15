@@ -3,7 +3,7 @@ object frmMagNum: TfrmMagNum
   Top = 0
   Caption = 'Helps detecting the magic number (file signature)'
   ClientHeight = 201
-  ClientWidth = 1008
+  ClientWidth = 624
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -55,7 +55,7 @@ object frmMagNum: TfrmMagNum
   object StatusBar1: TStatusBar
     Left = 0
     Top = 182
-    Width = 1008
+    Width = 624
     Height = 19
     Panels = <
       item
@@ -63,6 +63,7 @@ object frmMagNum: TfrmMagNum
         Text = 'Developed in Delphi 12.1 - version '
         Width = 50
       end>
+    ExplicitWidth = 1008
   end
   object btnBrowse: TButton
     Left = 8
@@ -76,7 +77,7 @@ object frmMagNum: TfrmMagNum
   object edtBD: TEdit
     Left = 8
     Top = 79
-    Width = 992
+    Width = 600
     Height = 23
     ReadOnly = True
     TabOrder = 1
